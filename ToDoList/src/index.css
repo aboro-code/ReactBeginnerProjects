@@ -1,5 +1,7 @@
-body{
-    background-image: linear-gradient(to bottom, rgb(255, 0, 0), rgb(0, 0, 255));
+body {
+    background: linear-gradient(to bottom, #ff0000, #0000ff);
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .todo-container{
